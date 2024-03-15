@@ -1,0 +1,67 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-open-sans: "Open Sans";
+  --font-poppins: Poppins;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-lg: 18px;
+  --font-size-15xl: 34px;
+  --font-size-xs: 12px;
+  --font-size-sm-9: 13.9px;
+  --font-size-lgi: 19px;
+  --font-size-51xl: 70px;
+  --font-size-28xl: 47px;
+  --font-size-5xl: 24px;
+  --font-size-3xl: 22px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-maroon-100: #8c1618;
+  --color-maroon-200: #8a1618;
+  --color-maroon-300: #881518;
+  --color-maroon-400: #7e1416;
+  --color-maroon-500: #7d1416;
+  --color-gray-100: #1c1c1c;
+  --color-gray-200: rgba(255, 255, 255, 0.8);
+  --color-gray-300: rgba(255, 255, 255, 0.4);
+  --color-gray-400: rgba(255, 255, 255, 0.75);
+  --color-brown-100: #911719;
+  --color-brown-200: #8e1619;
+  --color-black: #000;
+  --color-dimgray-100: #535353;
+  --color-lightpink-100: #ffacac;
+  --color-lightpink-200: rgba(255, 162, 162, 0.5);
+  --color-mistyrose: #ffe1e1;
+  --color-lavenderblush: #ffeaeb;
+  --color-firebrick: #ab1b1e;
+  --color-midnightblue: rgba(8, 10, 60, 0.5);
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-5xs-7: 7.7px;
+
+  /* Border radiuses */
+  --br-11xs: 2px;
+  --br-9xs: 4px;
+  --br-3xs: 10px;
+  --br-5xl: 24px;
+  --br-3xs-9: 9.9px;
+  --br-7xs: 6px;
+  --br-sm-1: 13.1px;
+  --br-6xs: 7px;
+  --br-11xl: 30px;
+  --br-25xl-1: 44.1px;
+  --br-144xl-5: 163.5px;
+  --br-57xl: 76px;
+  --br-6xl: 25px;
+}
