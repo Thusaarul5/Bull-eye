@@ -372,7 +372,7 @@
     
 }
 
-.healthcare-and-pharma-container4 {
+.healthcare-container4 {
     position: absolute;
     top: 114px;
     left: calc(50% - 63px);
@@ -389,7 +389,7 @@
         border-radius: 50%;
 }
 
-.healthcare-and-pharma-group {
+.healthcare-group {
     position: absolute;
     top: 24px;
     left: calc(50% + 420.5px);
@@ -428,22 +428,22 @@
     left: 878px;
 }
 
-.insurance-and-hospitality-container1 {
+.insurance-container1 {
     position: absolute;
     top: 115px;
     left: calc(50% - 230.4px);
     line-height: 28px;
 }
 
-.energy-and-natural-container3,
-.healthcare-and-pharma-container5 {
+.energy-container3,
+.healthcare-container5 {
     position: absolute;
     top: 115px;
     left: calc(50% - 543.4px);
     line-height: 28px;
 }
 
-.energy-and-natural-container3 {
+.energy-container3 {
     left: calc(50% + 80.6px);
 }
 
@@ -835,7 +835,7 @@
     height: 24.3px;
 }
 
-.mask-group-icon33 {
+.object-icon33 {
     position: absolute;
     top: 36.4px;
     left: 0;
@@ -844,10 +844,10 @@
     object-fit: contain;
 }
 
-.mask-group-icon34,
-.mask-group-icon35,
-.mask-group-icon36,
-.mask-group-icon37 {
+.object-icon34,
+.object-icon35,
+.object-icon36,
+.object-icon37 {
     position: absolute;
     top: 36.4px;
     left: 30.8px;
@@ -856,18 +856,18 @@
     object-fit: contain;
 }
 
-.mask-group-icon35,
-.mask-group-icon36,
-.mask-group-icon37 {
+.object-icon35,
+.object-icon36,
+.object-icon37 {
     left: 61.7px;
 }
 
-.mask-group-icon36,
-.mask-group-icon37 {
+.object-icon36,
+.object-icon37 {
     left: 92.5px;
 }
 
-.mask-group-icon37 {
+.object-icon37 {
     left: 123.3px;
 }
 
@@ -880,7 +880,7 @@
     font-size: var(--font-size-mini);
 }
 
-.mask-group-icon38 {
+.object-icon38 {
     position: absolute;
     top: 472px;
     left: 103.4px;
@@ -889,8 +889,8 @@
     object-fit: contain;
 }
 
-.lorem-ipsum-dolor15,
-.lorem-ipsum-dolor16 {
+.text15,
+.text16 {
     position: absolute;
     top: 263px;
     left: 103.4px;
@@ -898,7 +898,7 @@
     width: 427px;
 }
 
-.lorem-ipsum-dolor16 {
+.text16 {
     top: 120px;
     left: 968.4px;
 }
